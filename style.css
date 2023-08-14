@@ -1,0 +1,16 @@
+/* .class-type {
+} */
+
+/* .class_type {
+
+} */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#hero-section > h1 {
+	color: blue;
+}
